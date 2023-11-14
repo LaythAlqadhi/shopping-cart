@@ -14,4 +14,4 @@ This is a shopping cart website built using React. It incorporates various featu
 
 ## Preview
 
-You can preview the project [Shopping Cart]([#](https://shopping-cart-theta-ashen.vercel.app/)https://shopping-cart-theta-ashen.vercel.app/).
+You can preview the project [Shopping Cart](https://shopping-cart-theta-ashen.vercel.app/).
