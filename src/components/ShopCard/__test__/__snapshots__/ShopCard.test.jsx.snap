@@ -1,0 +1,37 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ShopCard component > renders in the document 1`] = `
+<div>
+  <div
+    class="_container_87f6bf"
+    data-status=""
+  >
+    <img
+      alt=""
+      class="_img_87f6bf"
+    />
+    <p />
+    <div
+      class="_innerContainer_87f6bf"
+    >
+      <p>
+        $
+      </p>
+      <p
+        class="_rating_87f6bf"
+      >
+        <span
+          class="material-symbols-outlined"
+        >
+          star
+        </span>
+      </p>
+    </div>
+    <button
+      class="_button_87f6bf"
+    >
+      Add to cart
+    </button>
+  </div>
+</div>
+`;

@@ -1,0 +1,41 @@
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 300px;
+  height: 450px;
+  padding: 25px;
+  border: 2px solid var(--primary-accent-color);
+  border-radius: 20px;
+}
+
+.innerContainer {
+  width: 100%;
+  padding: 12px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.innerContainer p {
+  font-weight: 600;
+}
+
+.img {
+  width: 50%;
+  margin-bottom: 25px;
+}
+
+.rating {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rating span {
+  font-size: 1em;
+  font-weight: 600;
+}

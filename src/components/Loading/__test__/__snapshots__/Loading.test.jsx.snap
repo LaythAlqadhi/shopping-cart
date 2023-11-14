@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Loading component > renders loading element correctly 1`] = `
+<div>
+  <div
+    class="_loading_55dd7a"
+  />
+</div>
+`;

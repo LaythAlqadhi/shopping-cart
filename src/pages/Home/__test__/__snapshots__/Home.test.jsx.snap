@@ -1,0 +1,33 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Home component > renders loading element correctly 1`] = `
+<div>
+  <div
+    class="_container_da09e4"
+  >
+    <h1
+      class="logo"
+    >
+      eShop
+    </h1>
+    <div
+      class="_innerContainer_da09e4"
+    >
+      <p>
+        Style that Speaks, Deals that Delight
+      </p>
+      <p>
+        Your journey to fabulous finds begins here.
+        <br />
+        Happy Shopping!
+      </p>
+    </div>
+    <img
+      alt=""
+      aria-hidden="true"
+      class="_img_da09e4"
+      src="/src/assets/header.jpg"
+    />
+  </div>
+</div>
+`;

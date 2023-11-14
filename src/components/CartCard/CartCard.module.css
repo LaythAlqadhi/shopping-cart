@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 320px;
+  padding: 10px;
+  margin: 25px;
+  border: 2px solid var(--primary-accent-color);
+  border-radius: 20px;
+}
+
+.countContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.detailsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.price {
+  font-weight: 500;
+}
+
+.img {
+  width: 35%;
+}

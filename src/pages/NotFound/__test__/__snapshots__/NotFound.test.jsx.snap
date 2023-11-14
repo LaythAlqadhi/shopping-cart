@@ -1,0 +1,16 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`NotFound component > renders loading element correctly 1`] = `
+<div>
+  <div
+    class="_container_a04e95"
+  >
+    <h1>
+      404 - Page Not Found
+    </h1>
+    <p>
+      We're sorry, but the page you are looking for cannot be found.
+    </p>
+  </div>
+</div>
+`;

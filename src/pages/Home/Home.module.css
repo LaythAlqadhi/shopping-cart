@@ -1,0 +1,26 @@
+.container {
+  margin-block: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.innerContainer {
+  margin-block: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.innerContainer p:nth-child(1) {
+  font-size: 1.35rem;
+  font-weight: 900;
+}
+
+.img {
+  max-width: 600px;
+  width: 100%;
+}
